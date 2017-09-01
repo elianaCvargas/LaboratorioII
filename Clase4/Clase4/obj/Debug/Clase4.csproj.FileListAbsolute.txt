@@ -1,0 +1,9 @@
+D:\VisualStudio\Clase4\Clase4\bin\Debug\Clase4.exe.config
+D:\VisualStudio\Clase4\Clase4\bin\Debug\Clase4.exe
+D:\VisualStudio\Clase4\Clase4\bin\Debug\Clase4.pdb
+D:\VisualStudio\Clase4\Clase4\obj\Debug\Clase4.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clase4\Clase4\obj\Debug\Clase4.exe
+D:\VisualStudio\Clase4\Clase4\obj\Debug\Clase4.pdb
+E:\ProgramacionII\Clase4\Clase4\bin\Debug\Clase4.exe.config
+E:\ProgramacionII\Clase4\Clase4\obj\Debug\Clase4.exe
+E:\ProgramacionII\Clase4\Clase4\obj\Debug\Clase4.pdb

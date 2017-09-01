@@ -1,0 +1,6 @@
+D:\VisualStudio\Clase5\Clase5\bin\Debug\Clase5.exe.config
+D:\VisualStudio\Clase5\Clase5\obj\Debug\Clase5.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clase5\Clase5\bin\Debug\Clase5.exe
+D:\VisualStudio\Clase5\Clase5\bin\Debug\Clase5.pdb
+D:\VisualStudio\Clase5\Clase5\obj\Debug\Clase5.exe
+D:\VisualStudio\Clase5\Clase5\obj\Debug\Clase5.pdb
