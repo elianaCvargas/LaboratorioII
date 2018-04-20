@@ -1,0 +1,6 @@
+D:\VisualStudio\AtencionAlCliente\AtencionAlCliente\bin\Debug\AtencionAlCliente.exe.config
+D:\VisualStudio\AtencionAlCliente\AtencionAlCliente\bin\Debug\AtencionAlCliente.exe
+D:\VisualStudio\AtencionAlCliente\AtencionAlCliente\bin\Debug\AtencionAlCliente.pdb
+D:\VisualStudio\AtencionAlCliente\AtencionAlCliente\obj\Debug\AtencionAlCliente.csprojResolveAssemblyReference.cache
+D:\VisualStudio\AtencionAlCliente\AtencionAlCliente\obj\Debug\AtencionAlCliente.exe
+D:\VisualStudio\AtencionAlCliente\AtencionAlCliente\obj\Debug\AtencionAlCliente.pdb
